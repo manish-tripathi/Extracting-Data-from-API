@@ -14,9 +14,9 @@ The first step in any data science job is to get Data. Collecting Primary data f
 # [Project 4: Classifying if Water is Safe for Drinking using XGBoost](https://github.com/manish-tripathi/Projects/blob/main/classifying-unbalanced-dataset-using-xgboost.ipynb)
 There are multiple scenarios where we need to identify the category of a given dataset; for example:
 
-Classifying emails as spam or not
-Classify a given handwritten character to be either a known character or not
-Classify recent user behaviour as churn or not
+* Classifying emails as spam or not
+* Classify a given handwritten character to be either a known character or not
+* Classify recent user behaviour as churn or not
 
 XGBoost is considered to be one of the most powerful models for classification. We’ll see how it can be applied to classification problems. In this implementation, we are going to apply the XGBoost classifier to address the binary classification problem where our task is to predict whether water is safe for drinking or not.
 
