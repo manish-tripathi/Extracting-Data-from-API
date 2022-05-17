@@ -27,3 +27,12 @@ The dataset holds information about the level of various ingredients present in 
 In binary features or the target feature, 0 states that the water is safe for drinking, and 1 states that it is not safe for drinking. So by making use of these features we are going to build an XGBoost classifier that will fit the relationship between those 20 features and the target feature.
 
 [Learn More About the project](https://machinehack.com/bootcamp/bootcampcourse/623c3b39473fe2338d71edad)
+
+
+# [Project 5: Natural Language Processing Using Hugging Face Library](https://github.com/manish-tripathi/Projects/blob/main/nlp-using-hugging-face-library.ipynb)
+
+Who thought learning Natural Language Processing could be so easy.
+Started learning Natural Language Processing using Natural Language Processing with Transformers.
+Transformers help in solving complex tasks like sentiment analysis, named entity recognition, translation, summarization, question answering and text generation with single line of code.
+To learn more refer: [Natural Language Processing with Transformers](https://www.amazon.in/Natural-Language-Processing-Transformers-Applications/dp/9355421877/ref=asc_df_9355421877/?tag=googleshopdes-21&linkCode=df0&hvadid=586323570422&hvpos=&hvnetw=g&hvrand=7312920761120531252&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007819&hvtargid=pla-1637749518926&psc=1)
+The code for the book is freely avaiable on [Github](https://github.com/nlp-with-transformers/notebooks)
