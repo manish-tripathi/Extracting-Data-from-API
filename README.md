@@ -36,3 +36,7 @@ Started learning Natural Language Processing using Natural Language Processing w
 Transformers help in solving complex tasks like sentiment analysis, named entity recognition, translation, summarization, question answering and text generation with single line of code.
 To learn more refer: [Natural Language Processing with Transformers](https://www.amazon.in/Natural-Language-Processing-Transformers-Applications/dp/9355421877/ref=asc_df_9355421877/?tag=googleshopdes-21&linkCode=df0&hvadid=586323570422&hvpos=&hvnetw=g&hvrand=7312920761120531252&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007819&hvtargid=pla-1637749518926&psc=1)
 The code for the book is freely avaiable on [Github](https://github.com/nlp-with-transformers/notebooks)
+
+
+# [Project 6: Create custom Datasets from Wikipedia with Python](https://github.com/manish-tripathi/Projects/blob/main/create-custom-datasets-from-wikipedia-with-python.ipynb)
+The basic requirement for any data science project is **Data**. In this notebook, I will be following along how to create custom datasets from wikipedia using python and pandas using pandas read_html function. Video tutorial for the same was posted [Rob Mulla, Kaggle Grandmaster](https://www.kaggle.com/robikscube), on his [Youtube Channel](https://youtu.be/KokJHxiE14s). The method described makes reading tables from html and websites really easy.
