@@ -1,17 +1,17 @@
-# [Project 1: Python Customer Segmentation & Clustering](https://github.com/manish-tripathi/Projects/blob/main/Python%20Customer%20Segmentation%20%26%20Clustering.ipynb)
+# [Project 1: Python Customer Segmentation & Clustering](https://nbviewer.org/github/manish-tripathi/Projects/blob/main/Python%20Customer%20Segmentation%20%26%20Clustering.ipynb)
 Attempted K-Means Clustering and Agglomerative Clustering to segment customer Annual Income and Spending Score data\
 [Dataset Link](https://raw.githubusercontent.com/Gaelim/Mall-Customer-Segmentation/main/Mall_Customers.csv)\
 [Notebook Motivation and dataset provided by](https://www.youtube.com/watch?v=iwUli5gIcU0)
 
 
-# [Project 2: Extracting Data from API](https://github.com/manish-tripathi/Projects/blob/main/NewsApi_Manish_Tripathi.ipynb)
+# [Project 2: Extracting Data from API](https://nbviewer.org/github/manish-tripathi/Projects/blob/main/NewsApi_Manish_Tripathi.ipynb)
 The Objective of the project is to fetch News using API from https://newsapi.org/
 
-# [Project 3: Scrapping Naukri.com for Information Technology Jobs posted in Hyderabad](https://github.com/manish-tripathi/Projects/blob/main/Hyderabad_Manish_Tripathi.ipynb)
+# [Project 3: Scrapping Naukri.com for Information Technology Jobs posted in Hyderabad](https://nbviewer.org/github/manish-tripathi/Projects/blob/main/Naukri_Webscrapper.ipynb)
 The first step in any data science job is to get Data. Collecting Primary data from respondants is costly and time consuming. One of the ways we can collecta dat is through scrapping it from the internet. The aim of this project is to identify key companies hiring for Information Technology Roles in Hyderabad and identify the skills they are looking for. For the project, have scrapped [Naukri.com](https://www.naukri.com/information-technology-jobs-in-hyderabad-secunderabad) for collecting the data.\
 [Output Dataset](https://github.com/manish-tripathi/Projects/blob/main/Hyderabad_Information_Technology_Jobs.csv)
 
-# [Project 4: Classifying if Water is Safe for Drinking using XGBoost](https://github.com/manish-tripathi/Projects/blob/main/classifying-unbalanced-dataset-using-xgboost.ipynb)
+# [Project 4: Classifying if Water is Safe for Drinking using XGBoost](https://nbviewer.org/github/manish-tripathi/Projects/blob/main/classifying-unbalanced-dataset-using-xgboost.ipynb)
 There are multiple scenarios where we need to identify the category of a given dataset; for example:
 
 * Classifying emails as spam or not
@@ -29,7 +29,7 @@ In binary features or the target feature, 0 states that the water is safe for dr
 [Learn More About the project](https://machinehack.com/bootcamp/bootcampcourse/623c3b39473fe2338d71edad)
 
 
-# [Project 5: Natural Language Processing Using Hugging Face Library](https://github.com/manish-tripathi/Projects/blob/main/nlp-using-hugging-face-library.ipynb)
+# [Project 5: Natural Language Processing Using Hugging Face Library](https://nbviewer.org/github/manish-tripathi/Projects/blob/main/nlp-using-hugging-face-library.ipynb)
 
 Who thought learning Natural Language Processing could be so easy.
 Started learning Natural Language Processing using Natural Language Processing with Transformers.
@@ -38,5 +38,5 @@ To learn more refer: [Natural Language Processing with Transformers](https://www
 The code for the book is freely avaiable on [Github](https://github.com/nlp-with-transformers/notebooks)
 
 
-# [Project 6: Create custom Datasets from Wikipedia with Python](https://github.com/manish-tripathi/Projects/blob/main/create-custom-datasets-from-wikipedia-with-python.ipynb)
+# [Project 6: Create custom Datasets from Wikipedia with Python](https://nbviewer.org/github/manish-tripathi/Projects/blob/main/create-custom-datasets-from-wikipedia-with-python.ipynb)
 The basic requirement for any data science project is **Data**. In this notebook, I will be following along how to create custom datasets from wikipedia using python and pandas using pandas read_html function. Video tutorial for the same was posted [Rob Mulla, Kaggle Grandmaster](https://www.kaggle.com/robikscube), on his [Youtube Channel](https://youtu.be/KokJHxiE14s). The method described makes reading tables from html and websites really easy.
