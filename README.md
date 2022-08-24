@@ -40,3 +40,5 @@ The code for the book is freely avaiable on [Github](https://github.com/nlp-with
 
 # [Project 6: Create custom Datasets from Wikipedia with Python](https://nbviewer.org/github/manish-tripathi/Projects/blob/main/create-custom-datasets-from-wikipedia-with-python.ipynb)
 The basic requirement for any data science project is **Data**. In this notebook, I will be following along how to create custom datasets from wikipedia using python and pandas using pandas read_html function. Video tutorial for the same was posted [Rob Mulla, Kaggle Grandmaster](https://www.kaggle.com/robikscube), on his [Youtube Channel](https://youtu.be/KokJHxiE14s). The method described makes reading tables from html and websites really easy.
+
+[Follow me on LinkedIn](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=maneeshtripathi)
