@@ -4,7 +4,7 @@ Hey there, I’m Manish Tripathi and I love crunching numbers and finding insigh
 
 I have a Post Graduate Diploma in Management from Institite of Management Technology, Nagpur, with a focus on Finance and Human Resource. I also have a Bachelor of Mathematics degree from St. Xavier's College Mumbai.
 
-But enough about my education and work experience. What really excites me is learning new skills and technologies, especially in the field of natural language processing and machine learning. I have taken several online courses and certifications on these topics. I also enjoy reading and writing technical books and articles on these topics. You can check out some of my publications on my [personal website](https://manish-tripathi.github.io/Projects/) or on my [LinkedIn profile](https://www.linkedin.com/in/maneeshtripathi/).
+But enough about my education and work experience. What really excites me is learning new skills and technologies, especially in the field of natural language processing and machine learning. I have taken several online courses and certifications on these topics. I also enjoy reading technical books and articles on these topics. You can check out some of my publications on my [personal website](https://manish-tripathi.github.io/Projects/) or on my [LinkedIn profile](https://www.linkedin.com/in/maneeshtripathi/).
 
 # My Projects
 
