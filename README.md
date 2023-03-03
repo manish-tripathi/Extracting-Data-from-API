@@ -1,3 +1,13 @@
+# About Me
+
+Hey there, I’m Manish Tripathi and I love crunching numbers and finding insights. I work as Lead Market Analyst at SkillGigs.com, where I help tech talent land their dream jobs. Before that, I was a Research Associate at S&P Global for 11 years, doing research for different sectors and markets and improving data operations.
+
+I have a Post Graduate Diploma in Management from Institite of Management Technology, Nagpur, with a focus on Finance and Human Resource. I also have a Bachelor of Mathematics degree from St. Xavier's College Mumbai.
+
+But enough about my education and work experience. What really excites me is learning new skills and technologies, especially in the field of natural language processing and machine learning. I have taken several online courses and certifications on these topics. I also enjoy reading and writing technical books and articles on these topics. You can check out some of my publications on my [personal website](https://manish-tripathi.github.io/Projects/) or on my [LinkedIn profile](https://www.linkedin.com/in/maneeshtripathi/).
+
+# My Projects
+
 # [Project 1: Python Customer Segmentation & Clustering](https://nbviewer.org/github/manish-tripathi/Projects/blob/main/Python%20Customer%20Segmentation%20%26%20Clustering.ipynb)
 Attempted K-Means Clustering and Agglomerative Clustering to segment customer Annual Income and Spending Score data\
 [Dataset Link](https://raw.githubusercontent.com/Gaelim/Mall-Customer-Segmentation/main/Mall_Customers.csv)\
