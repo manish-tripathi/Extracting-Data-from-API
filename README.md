@@ -1,17 +1,12 @@
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/manish-tripathi/Photo/raw/main/IMG_20220618_201938.jpg" alt="Author Photo" width="200" style="margin-right: 20px;">
-  <div>
+
+# About Me
   
-  # About Me
+Hey there, I’m Manish Tripathi and I love crunching numbers and finding insights. I work as Lead Market Analyst at SkillGigs.com, where I help tech talent land their dream jobs. Before that, I was a Research Associate at S&P Global for 11 years, doing research for different sectors and markets and improving data operations.
   
-  Hey there, I’m Manish Tripathi and I love crunching numbers and finding insights. I work as Lead Market Analyst at SkillGigs.com, where I help tech talent land their dream jobs. Before that, I was a Research Associate at S&P Global for 11 years, doing research for different sectors and markets and improving data operations.
+I have a Post Graduate Diploma in Management from Institute of Management Technology, Nagpur, with a focus on Finance and Human Resource. I also have a Bachelor of Mathematics degree from St. Xavier's College Mumbai.
   
-  I have a Post Graduate Diploma in Management from Institute of Management Technology, Nagpur, with a focus on Finance and Human Resource. I also have a Bachelor of Mathematics degree from St. Xavier's College Mumbai.
+But enough about my education and work experience. What really excites me is learning new skills and technologies, especially in the field of natural language processing and machine learning. I have taken several online courses and certifications on these topics. I also enjoy reading technical books and articles on these topics. You can check out some of my publications on my [personal website](https://manish-tripathi.github.io/Projects/) or on my [LinkedIn profile](https://www.linkedin.com/in/maneeshtripathi/).
   
-  But enough about my education and work experience. What really excites me is learning new skills and technologies, especially in the field of natural language processing and machine learning. I have taken several online courses and certifications on these topics. I also enjoy reading technical books and articles on these topics. You can check out some of my publications on my [personal website](https://manish-tripathi.github.io/Projects/) or on my [LinkedIn profile](https://www.linkedin.com/in/maneeshtripathi/).
-  
-  </div>
-</div>
 
 # My Projects
 
