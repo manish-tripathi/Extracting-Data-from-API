@@ -36,4 +36,8 @@ Embark on a journey of learning Natural Language Processing with ease. I explore
 
 Data is the foundation of any data science project. In this notebook, I demonstrate how to create custom datasets from Wikipedia using Python and Pandas, utilizing the `read_html` function. You can also watch a video tutorial on this topic by [Rob Mulla, Kaggle Grandmaster](https://www.kaggle.com/robikscube), available on his [YouTube Channel](https://youtu.be/KokJHxiE14s).
 
+## [Project 7: Scraping Euronext for IPOs](https://nbviewer.org/github/manish-tripathi/Amplify-Analytix-Task/blob/main/scrapping-euronext-for-ipos.ipynb)
+
+This project involves writing a Python script to scrape IPO listing data from Euronext's IPO Showcase page. The script automatically navigates through multiple pages to collect data on IPO dates, company names, and links to individual IPO details. This data is then structured into a Pandas DataFrame for easier analysis and manipulation. [Explore the Notebook](https://nbviewer.org/github/manish-tripathi/Amplify-Analytix-Task/blob/main/scrapping-euronext-for-ipos.ipynb).
+
 For more updates, connect with me on [LinkedIn](https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=maneeshtripathi).
