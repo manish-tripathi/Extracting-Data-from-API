@@ -4,7 +4,23 @@ Hello there, I'm Manish Tripathi, and I have a passion for crunching numbers and
 
 ## Education
 
-I hold a Post Graduate Diploma in Management from the [Institute of Management Technology, Nagpur](https://www.imtnagpur.ac.in/), with a concentration in Finance and Human Resource. Additionally, I possess a Bachelor's degree in Mathematics from [St. Xavier's College, Mumbai](https://xaviers.edu/).
+I hold a diverse educational background:
+
+- **Advanced Management Programme in Business Analytics** from the [Indian School of Business](https://www.isb.edu/en/study-isb/advanced-management-programmes/business-analytics.html). During this program, I acquired skills in various areas, including:
+
+  - Python (Programming Language)
+  - Microsoft Power BI
+  - Datasets
+  - Long-term Vision
+  - Presentation Skills
+  - Dashboards
+  - SQL
+  - Statistical Analysis
+  - Analytical Skills
+  
+- **Post Graduate Diploma in Management** from the [Institute of Management Technology, Nagpur](https://www.imtnagpur.ac.in/), with a concentration in Finance and Human Resource.
+
+- **Bachelor of Mathematics** degree from [St. Xavier's College, Mumbai](https://xaviers.edu/).
 
 ## My Passion
 
